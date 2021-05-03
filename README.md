@@ -12,7 +12,7 @@
 
 ![Screenshot_111](https://user-images.githubusercontent.com/81457697/116838983-abf3fe00-abfa-11eb-8284-e765c7a1d18d.png)
 
-#hasil jadinya
+#hasil akhir
 ![Screenshot_113](https://user-images.githubusercontent.com/81457697/116839106-2c1a6380-abfb-11eb-9da7-7b143e2e9473.png)
 
 
