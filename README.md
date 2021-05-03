@@ -1,10 +1,10 @@
 # TugasPraktikumUTS
 [LINK DESIGN WEBSITE BESERTA GAMBARNYA.pdf](https://github.com/Axeldanovan/TugasPraktikumUTS/files/6412756/LINK.DESIGN.WEBSITE.BESERTA.GAMBARNYA.pdf)
 
-#membuat homepagenya
+#membuat homepage html
 ![Screenshot_112](https://user-images.githubusercontent.com/81457697/116838939-81a24080-abfa-11eb-8fdf-2138c634bcf2.png)
 
-#membuat background nya
+#membuat homepage css
 ![Screenshot_109](https://user-images.githubusercontent.com/81457697/116839050-fbd2c500-abfa-11eb-868d-f69e2a2068a2.png)
 
 #membuat font dan memperbagus background nya
